@@ -1,0 +1,8 @@
+DB_CONNECTION=mysql
+DB_HOST=186.159.129.2 
+DB_PORT=3306
+DB_DATABASE=INTEGRA
+DB_USERNAME=integra
+DB_PASSWORD=Latina2018*
+
+https://ulatina.xyz/conectados/

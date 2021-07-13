@@ -1,0 +1,6 @@
+APP_NAME='Portal de Trabajos Finales'
+APP_ENV=local
+APP_KEY=base64:YM6LPJXDUK2+rHRC+7gHoVwG9dCUCb9xphymkmmi4Is=
+APP_DEBUG=true
+APP_LOG_LEVEL=debug
+APP_URL=http://localhost
